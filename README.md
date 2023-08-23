@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RayJ-Cyber
+- 👋 Hi, I’m @RaeJ-Cyber
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Computer Science and focusing on cybersecurity.
 - 💞️ I’m looking to collaborate on buiding something specail inneed!
